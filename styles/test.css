@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: cornsilk;
+    padding: 24px;
+}
+
+h1 {
+    color: crimson;
+    font-size: 4rem;
+    margin: 0;
+    text-align: center;
+}
+
+main {
+    padding: 24px;
+    background-color: rgb(253, 230, 230);
+}
+
+main div {
+    background-color: firebrick;
+    border-radius: 10px;
+    color: cornsilk;
+    padding: 16px;
+}
